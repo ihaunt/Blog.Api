@@ -7,7 +7,6 @@ API para gerenciamento de um Blog com CRUD 🤳
 - <a href="#demostração">Demonstração</a>
 - <a href="#rodar">Como rodar o projeto?</a>
 - <a href="#tecnologia">Tecnologias Utilizadas</a>
-- <a href="#autores">Autores (as)</a>
 - <a href="#passos">Próximos Passos</a>
 
 ## 📱 Funcionalidades do Projeto:
@@ -69,8 +68,6 @@ http://localhost:5100/swagger/index.html
 - Swashbuckle AspNetCore Version: 6.5.0
 - Microsoft .NET SDK 7.0.307
 
-## ✍🏼 Autores(as):
-- Jennifer Machado (developer back-end)
 
   <a href="https://www.linkedin.com/in/jennifer-machado-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
